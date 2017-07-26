@@ -1,0 +1,27 @@
+{
+  "name": "curso_react_redux",
+  "version": "1.0.0",
+  "description": "Exercicios do curso de React com Redux",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --progress --colors --inline --hot"
+  },
+  "author": "Felix Valois",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.14.0",
+    "webpack-dev-middleware": "^1.11.0",
+    "webpack-dev-server": "^1.16.2",
+    "webpack-hot-middleware": "^2.18.2"
+  },
+  "dependencies": {
+    "es6-promise": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fvalois2009/curso_react_redux.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fvalois2009/curso_react_redux/issues"
+  }
+}
